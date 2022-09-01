@@ -1,8 +1,7 @@
 # text-editor
 
-  
   ## Description:
- a text editor
+ a simple text editor that can be used offline and online and be installed on desktop to be used to make code snippets for later use 
 
   # Table of Contents
 
@@ -33,7 +32,7 @@
 
   ## Usage:
 
-
+ a text editor for creating snippets
 
   ## Credits:
 
