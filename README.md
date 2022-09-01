@@ -24,7 +24,7 @@
   
 
   ## Deployed link
-
+   https://fathomless-headland-52572.herokuapp.com/
   
   ## Technologies
   - JavaScript
