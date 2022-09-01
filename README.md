@@ -1,8 +1,8 @@
-# Team Profile Generator
+# text-editor
 
   
   ## Description:
-
+ a text editor
 
   # Table of Contents
 
@@ -53,7 +53,7 @@
 
   ## Screenshot:
 
-  ![Screen Shot](./src/teamgenerator.png)
+  ![Screen Shot](./assets/localhost_3000_.png)
 
   
   ## Contact:
